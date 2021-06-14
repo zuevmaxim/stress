@@ -1,0 +1,3 @@
+# stress
+
+run `./gradlew jcstress`
